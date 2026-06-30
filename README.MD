@@ -2,50 +2,6 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
-  <title>Microservices Architecture - NestJS + RabbitMQ</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      margin: 40px;
-      background: #f9f9f9;
-      color: #222;
-    }
-    h1, h2, h3 {
-      color: #111;
-    }
-    code {
-      background: #eee;
-      padding: 2px 6px;
-      border-radius: 4px;
-    }
-    pre {
-      background: #1e1e1e;
-      color: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      overflow-x: auto;
-    }
-    table {
-      border-collapse: collapse;
-      width: 100%;
-      margin: 10px 0;
-    }
-    th, td {
-      border: 1px solid #ccc;
-      padding: 8px;
-      text-align: left;
-    }
-    th {
-      background: #eee;
-    }
-    .box {
-      background: #fff;
-      padding: 15px;
-      border-radius: 8px;
-      margin-bottom: 20px;
-    }
-  </style>
 </head>
 <body>
 
